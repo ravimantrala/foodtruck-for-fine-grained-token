@@ -1,0 +1,6 @@
+{
+    "scope": "x_snc_foodtruck2",
+    "scopeId": "4afca45447d497103f37eb40706d439f",
+    "name": "foodtruck2",
+    "tsconfigPath": "./src/server/tsconfig.json"
+}
